@@ -12,7 +12,7 @@ Adrián López Ortiz
 ### Prácticas:
 
 ##Práctica 1:
-### [P1](https://github.com/stct97/dwec/blob/main/Practicas/P1/P1.md)
+### [P1](https://github.com/jmrubio96/Desarrollo_Web_Entorno_Cliente/blob/d6c5728718ef69ca1d6ce935e60f3dab88efc78c/Practicas/p1.md)
 
 ##Práctica 2:
 ### [P2](https://github.com/jmrubio96/Desarrollo_Web_Entorno_Cliente/blob/a4f079ef2be0cb2767f362183e9cda1d7ee761e7/Practicas/P2/P2.md)
