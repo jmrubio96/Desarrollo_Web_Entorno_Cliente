@@ -11,8 +11,17 @@ Adrián López Ortiz
 
 ### Prácticas:
 
+##Práctica 1:
+### [P1](https://github.com/stct97/dwec/blob/main/Practicas/P1/P1.md)
 
+##Práctica 2:
+### [P2](https://github.com/stct97/dwec/blob/main/Practicas/P1/P1.md)
 
+##Práctica 3:
+### [P3](https://github.com/stct97/dwec/blob/main/Practicas/P1/P1.md)
+
+##Práctica 4:
+### [P4](https://github.com/stct97/dwec/blob/main/Practicas/P1/P1.md)
 
 
 
