@@ -1,0 +1,13 @@
+table{
+    width: 50%;
+    
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.centrar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

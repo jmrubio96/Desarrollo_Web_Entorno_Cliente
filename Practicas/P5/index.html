@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 5</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="js/clasePerson.js"></script>
+    <script src="js/tabla.js"></script>
+</head>
+<body>
+    
+    <h1>Lista</h1>
+    <table class="table table-hover table-info " id="tabla">
+
+    </table>
+    <br>
+    <div class="centrar">
+        <button type="button"  class="btn btn-light"
+            onclick="addPerson(prompt('Inserte el nombre'), prompt('Inserte el primer apellido'), prompt('Inserte el segundo apellido'))">Añadir Persona</button>
+        <button type="button" class="btn btn-light"
+            onclick="deleteLastPerson()">Borrar
+            Última Persona</button>
+    </div>
+    <script>
+
+        updateTable();
+
+
+    </script>
+</body>
+
+</html>
