@@ -16,6 +16,7 @@
 *this.start.bind('click', $.proxy(function(): Esta función será la encargada de iniciar la animación al hacer click en el texto "Iniciar"*
 *$(this.audio).bind('ended', $.proxy(function(): Esta función nos devuelve a la pantalla inicial cuando termina el audio.*
 
-###style.css 
+### style.css 
+
 -Este archivo se encarga de darle estilo a la página y a su contenido(alineación, color, tamaño...etc.
 
