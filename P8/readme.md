@@ -13,7 +13,9 @@
 
 ### functions.js
 -El archivo functions.js contiene el código que implementa las distintas funciones para las animaciones del texto. Algunas de ellas son:
+
 *this.start.bind('click', $.proxy(function(): Esta función será la encargada de iniciar la animación al hacer click en el texto "Iniciar"*
+
 *$(this.audio).bind('ended', $.proxy(function(): Esta función nos devuelve a la pantalla inicial cuando termina el audio.*
 
 ### style.css 
