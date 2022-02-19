@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<centros>
+  <centro>
+    <nombre>MEDAC_Cordoba</nombre>
+    <direccion>C. Escritora Angeles Lopez de Ayala, 7</direccion>
+    <latitud>37.87473077406626</latitud>
+    <longitud>-4.800424771313587</longitud>
+  </centro>
+  <centro>
+    <nombre>MEDAC_Arena</nombre>
+    <direccion>C. Escritora Maria Goyri</direccion>
+    <latitud>37.88043234472067</latitud>
+    <longitud>-4.804069938693797</longitud>
+  </centro>
+</centros>

@@ -1,0 +1,26 @@
+<bares>
+  <bar>
+      <centro>MEDAC_Arena</centro>
+      <nombre>Arena Bar</nombre>
+      <direccion>Periodista Quesada Chacon, 225</direccion>
+      <latitud>37.88100953806846</latitud>
+      <longitud>-4.802489081398102</longitud>
+      <puntuacion>4.4</puntuacion>
+    </bar>
+    <bar>
+      <centro>MEDAC_Arena</centro>
+      <nombre>Macdonal's open arena</nombre>
+      <direccion>Periodista Quesada Chacon, 225</direccion>
+      <latitud>37.881045527644325</latitud>
+      <longitud>-4.8030738029235645</longitud>
+      <puntuacion>4.1</puntuacion>
+    </bar>
+    <bar>
+      <centro>MEDAC_Arena</centro>
+      <nombre>Celia Jimenez</nombre>
+      <direccion>Periodista Quesada Chacon, 225</direccion>
+      <latitud>37.88092062257028</latitud>
+      <longitud>-4.802617827422057</longitud>
+      <puntuacion>4.1</puntuacion>
+    </bar>
+  </bares>

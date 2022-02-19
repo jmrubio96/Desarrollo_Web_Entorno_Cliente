@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bares>
+  <bar>
+    <centro>MEDAC_Cordoba</centro>
+    <nombre>Cafeteria El Cerezo</nombre>
+    <direccion>C. Escritora Maria Teresa de Leon</direccion>
+    <latitud>37.87489168221991</latitud>
+    <longitud>-4.801272349304628</longitud>
+    <puntuacion>4.1</puntuacion>
+  </bar>
+  <bar>
+    <centro>MEDAC_Cordoba</centro>
+    <nombre>Cafeteria Cesar</nombre>
+    <direccion>C. Escritora Concha Espina</direccion>
+    <latitud>37.87416335829855</latitud>
+    <longitud>37.87416335829855</longitud>
+    <puntuacion>4.1</puntuacion>
+  </bar>
+  <bar>
+    <centro>MEDAC_Cordoba</centro>
+    <nombre>Pizzeria Il Piccantino</nombre>
+    <direccion>Urb. Parque de las Avenidas, 2</direccion>
+    <latitud>37.87498857101955</latitud>
+    <longitud>-4.79801482540555</longitud>
+    <puntuacion>4.5</puntuacion>
+  </bar>
+</bares>
