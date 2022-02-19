@@ -52,10 +52,6 @@ function loadBar() {
   xhttp.send();
 ```
 
-  ## Reseteo (limpador de div´s)
-```python
-  baresArena.innerHTML = "";
-```
 ## Mapa
 - He usado la API **openlayers**. Le pasaremos por parámetro las dos variables que adquieren longitud y latitud. 
 ```python
